@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @st3vejobs
-- 👀 I’m interested in astronomy, physics, sports and risk analysis
+- 👀 I’m interested in astronomy, physics, sports, risk analysis, and environment
 - 🌱 I’m currently learning data science at the City University of New York
 - 🔭 I’m currently working on coursework and casual projects
 - 🤔 I’m looking for help with prediction and probability construction
